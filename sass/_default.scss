@@ -1,0 +1,15 @@
+
+body{
+	font-family: #{$normal-font};
+	background-color: $bg-color-1;
+}
+
+a{
+	font-family: #{$normal-font};
+	text-decoration: none;
+}
+
+.extend-header{
+	height: 50px;
+	width: 100%;
+}
