@@ -1,0 +1,19 @@
+.index-container{
+
+	position: relative;
+	width: 100%;
+	min-height: 100vh;
+	background-color: #383838;
+
+	/** 大圖 **/
+	.main-img{
+		border: red 1px solid;
+		max-width: 1080px;
+	}
+
+	canvas{
+		width: 100%;
+		height: 100vh;
+	}
+
+}
